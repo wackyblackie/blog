@@ -1,7 +1,6 @@
-title: @wackyblackie blog
-description: Wackyblogs
-show_downloads: true
+title: '@wackyblackie blog'
+description: wackyblogs
+show_downloads: false
 google_analytics:
 include: ['_pages']
 permalink: /:author/:title/
-theme: jekyll-theme-leap-day
