@@ -1,5 +1,7 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
+title: @wackyblackie blog
+description: Wackyblogs
 show_downloads: true
 google_analytics:
+include: ['_pages']
+permalink: /:title/
 theme: jekyll-theme-leap-day
