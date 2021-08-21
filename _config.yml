@@ -3,5 +3,5 @@ description: Wackyblogs
 show_downloads: true
 google_analytics:
 include: ['_pages']
-permalink: /:title/
+permalink: /:author/:title/
 theme: jekyll-theme-leap-day
