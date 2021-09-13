@@ -4,3 +4,5 @@ show_downloads: false
 google_analytics:
 include: ['_pages']
 permalink: /:author/:title/
+
+theme: jekyll-theme-leap-day
